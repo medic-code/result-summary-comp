@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot](./screenshot1.png)
+![Screenshot](https://github.com/medic-code/result-summary-comp/blob/main/screenshot1.PNG)
 
 ### Links
 
